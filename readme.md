@@ -9,3 +9,4 @@
 ## Notes
 
 -Improved responsiveness
+-Worked on image
