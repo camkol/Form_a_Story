@@ -8,5 +8,5 @@
 
 ## Notes
 
--Improved responsiveness
--Worked on image
+- Improved responsiveness
+- Worked on image
